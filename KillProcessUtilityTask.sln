@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KillProcessUtilityTask", "KillProcessUtilityTask\KillProcessUtilityTask.csproj", "{C6ED04A6-9856-4CEF-B1EE-DC00BEEBEE57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6ED04A6-9856-4CEF-B1EE-DC00BEEBEE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6ED04A6-9856-4CEF-B1EE-DC00BEEBEE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6ED04A6-9856-4CEF-B1EE-DC00BEEBEE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6ED04A6-9856-4CEF-B1EE-DC00BEEBEE57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ACFCC41-565A-417E-8AD9-0A5C75FDAA60}
+	EndGlobalSection
+EndGlobal

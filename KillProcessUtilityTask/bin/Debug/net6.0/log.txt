@@ -1,0 +1,2 @@
+2022-09-11 01:20:11.794 +02:00 [INF] Starting up F:\all task\SeleniumTask\SeleniumTask\UnitTest1
+2022-09-11 01:22:43.754 +02:00 [INF] Starting up F:\all task\SeleniumTask\SeleniumTask\UnitTest1.txt

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCIiNg09g90/GIMJkbpq7Y7w0GdHwy1bAkLrFq9wO+l9ApVVIsHAYNr7+G3LIbbK9dm1zlAqsY/5yGbjEDWN3w==",
+  "success": true,
+  "projectFilePath": "F:\\all task\\KillProcessUtilityTask\\KillProcessUtilityTask\\KillProcessUtilityTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sajid\\.nuget\\packages\\serilog\\2.12.0-dev-01564\\serilog.2.12.0-dev-01564.nupkg.sha512",
+    "C:\\Users\\sajid\\.nuget\\packages\\serilog.sinks.file\\5.0.1-dev-00947\\serilog.sinks.file.5.0.1-dev-00947.nupkg.sha512"
+  ],
+  "logs": []
+}
